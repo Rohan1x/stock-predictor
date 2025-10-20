@@ -40,6 +40,25 @@ pip install pandas numpy scikit-learn matplotlib yfinance
 
 
 
+**📊 Key Results
+**
+Baseline model: Precision ≈ 0.57
+
+Improved accuracy (+15%) after adding additional feature columns
+
+Backtested on 35+ years of S&P 500 daily data
+
+
+
+**🧰 Tools Used
+**
+Python · Jupyter Lab · scikit-learn · pandas · numpy · matplotlib · yfinance
+
+
+
+👤 **Author**
+
+Rohan Domenguez
 Open the notebook
 
 
