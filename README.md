@@ -34,10 +34,13 @@ source .venv/bin/activate
 source .venv/bin/activate
 
 Install dependencies
+
 pip install pandas numpy scikit-learn matplotlib yfinance
 
 
 Open the notebook
+
 jupyter lab    # or jupyter notebook
+
 
 Run all cells in start.ipynb to reproduce the workflow.
