@@ -42,6 +42,7 @@ pip install pandas numpy scikit-learn matplotlib yfinance
 
 **📊 Key Results
 **
+
 Baseline model: Precision ≈ 0.57
 
 Improved accuracy (+15%) after adding additional feature columns
